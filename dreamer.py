@@ -1,6 +1,12 @@
 #!/usr/bin/python
 __author__ = 'samim'
 
+'''
+This little script makes animations (gifs)
+using the DeepDream tools.
+'''
+
+
 # Imports
 import argparse
 import time
